@@ -1,0 +1,10 @@
+{
+    "directory_name": "project",
+    "project_name": "Project X",
+    "project_slug": "project_x",
+    "runner_slug": "runner_1",
+    "project_version": "0.1.0",
+    "author_name": "Carlos Kidman",
+    "author_email": "carlos@qap.dev",
+    "github_username": "elsnoman"
+}
