@@ -1,4 +1,4 @@
-# Cookiecutter PyTorch Lightning
+# Python Project Quickstart
 
 ## Instructions
 
@@ -6,10 +6,6 @@
 # install cookiecutter
 pip install cookiecutter
 
-# render the template
-cookiecutter https://github.com/sudomaze/cookiecutter-pytorch-lightning-cluster.git
+# render the template in the directory to create the project
+cookiecutter https://github.com/ElSnoMan/python-cookiecutter.git
 ```
-
-## Contributors
-
-- [sudomaze](https://github.com/sudomaze) - main maintainer
